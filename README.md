@@ -41,7 +41,7 @@
     </td>
     <td width="40%" align="center">
       <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250px" />
-      <br><em>“如果做不出来，那就嵌入进去”</em>
+      <br><em>“If you can't make it, embed it.”</em>
     </td>
   </tr>
 </table>
