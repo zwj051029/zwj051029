@@ -10,6 +10,18 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zwj051029/zwj051029/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zwj051029/zwj051029/output/snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zwj051029/zwj051029/output/snake.svg" />
+  </picture>
+</p>
+
+---
+
 ### 👨‍💻 About Me
 
 - 🎓 **南京理工大学** · 自动化学院 · **电气工程及其自动化** 2024 级本科生
