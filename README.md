@@ -10,6 +10,16 @@
 
 ---
 
+### 👨‍💻 About Me
+
+- 🎓 **南京理工大学** · 自动化学院 · **电气工程及其自动化** 2024 级本科生
+- ⚡ 专注于 **嵌入式软件开发**，热爱 **底层驱动**、**实时操作系统** 与 **机器人控制**
+- 🏆 正在备赛 **2026 年全国大学生电子设计竞赛**（智能驾驶小车 A1 题）
+- 🌱 持续学习 **ARM Cortex-M 体系结构**、**电机控制算法** 与 **嵌入式 ROS**
+- 📫 邮箱：[924110800235@njust.edu.cn](mailto:924110800235@njust.edu.cn)
+
+---
+
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -19,16 +29,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zwj051029/zwj051029/output/snake.svg" />
   </picture>
 </p>
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 **南京理工大学** · 自动化学院 · **电气工程及其自动化** 2024 级本科生
-- ⚡ 专注于 **嵌入式软件开发**，热爱 **底层驱动**、**实时操作系统** 与 **机器人控制**
-- 🏆 正在备赛 **2026 年全国大学生电子设计竞赛**（智能驾驶小车 A1 题）
-- 🌱 持续学习 **ARM Cortex-M 体系结构**、**电机控制算法** 与 **嵌入式 ROS**
-- 📫 邮箱：[924110800235@njust.edu.cn](mailto:924110800235@njust.edu.cn)
 
 ---
 
@@ -51,11 +51,6 @@
 ---
 
 ### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zwj051029&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwj051029&layout=compact&theme=radical" height="165" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zwj051029&theme=radical" alt="GitHub Streak" />
