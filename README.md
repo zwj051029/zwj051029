@@ -33,7 +33,7 @@
       <p>🏆 <strong>备战 2026 全国大学生电子设计竞赛</strong><br>
          &nbsp;&nbsp;&nbsp;&nbsp; 智能驾驶小车（A1）——“做电控的那个男人”</p>
       <p>📚 <strong>正在钻研的技术</strong><br>
-         &nbsp;&nbsp;&nbsp;&nbsp; ARM Cortex-M4 · ROS2 · FreeRTOS · LVGL · 嵌入式 · 电机控制算法</p>
+         &nbsp;&nbsp;&nbsp;&nbsp; ARM Cortex-M4 · ROS2 · FreeRTOS · LVGL · 嵌入式软件 · 电机控制算法 · 机器人控制算法</p>
       <p>💡 <strong>坚信</strong><br>
          &nbsp;&nbsp;&nbsp;&nbsp; <i>“工程师不止解决问题——他们创造未来”</i></p>
       <p>✉️ <strong>联系我</strong><br>
