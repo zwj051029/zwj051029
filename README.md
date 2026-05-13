@@ -107,11 +107,6 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zwj051029&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwj051029&layout=compact&theme=radical&hide_border=true&langs_count=6" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zwj051029&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
