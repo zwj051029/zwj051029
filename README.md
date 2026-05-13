@@ -39,7 +39,7 @@
       <p>✉️ <strong>联系我</strong><br>
          &nbsp;&nbsp;&nbsp;&nbsp; 📫 <a href="mailto:924110800235@njust.edu.cn">924110800235@njust.edu.cn</a></p>
     </td>
-    <td width="30%" align="center">
+    <td width="70%" align="center">
       <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250px" />
       <br><em>“If you can't make it, embed it.”</em>
     </td>
