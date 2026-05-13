@@ -25,7 +25,7 @@
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="70%">
       <p>🎓 <strong>南京理工大学</strong> · 自动化学院<br>
          &nbsp;&nbsp;&nbsp;&nbsp; <strong>电气工程及其自动化</strong> 本科（2024级）</p>
       <p>⚙️ <strong>热爱嵌入式系统开发</strong><br>
@@ -33,13 +33,13 @@
       <p>🏆 <strong>备战 2026 全国大学生电子设计竞赛</strong><br>
          &nbsp;&nbsp;&nbsp;&nbsp; 智能驾驶小车（A1）——“做电控的那个男人”</p>
       <p>📚 <strong>正在钻研的技术</strong><br>
-         &nbsp;&nbsp;&nbsp;&nbsp; Cortex-M4 · ROS2 · FreeRTOS · LVGL · 嵌入式 · 电机控制算法</p>
+         &nbsp;&nbsp;&nbsp;&nbsp; ARM Cortex-M4 · ROS2 · FreeRTOS · LVGL · 嵌入式 · 电机控制算法</p>
       <p>💡 <strong>坚信</strong><br>
          &nbsp;&nbsp;&nbsp;&nbsp; <i>“工程师不止解决问题——他们创造未来”</i></p>
       <p>✉️ <strong>联系我</strong><br>
          &nbsp;&nbsp;&nbsp;&nbsp; 📫 <a href="mailto:924110800235@njust.edu.cn">924110800235@njust.edu.cn</a></p>
     </td>
-    <td width="40%" align="center">
+    <td width="30%" align="center">
       <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250px" />
       <br><em>“If you can't make it, embed it.”</em>
     </td>
